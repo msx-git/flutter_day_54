@@ -1,0 +1,1 @@
+// const YANDEX_API_KEY = "710e21ca-c13f-499b-bc2a-7defe61ec077";
