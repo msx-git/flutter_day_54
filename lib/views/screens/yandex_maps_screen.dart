@@ -117,7 +117,7 @@ class _YandexMapsScreenState extends State<YandexMapsScreen> {
                       icon: PlacemarkIcon.single(
                         PlacemarkIconStyle(
                           image: BitmapDescriptor.fromAssetImage(
-                            "assets/icons/current-location.png",
+                            "assets/icons/current_location_pin.png",
                           ),
                         ),
                       ),
